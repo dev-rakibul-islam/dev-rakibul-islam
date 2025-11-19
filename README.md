@@ -3,8 +3,6 @@
 </p>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/dev-rakibul-islam" alt="Rakibul Islam" width="140" style="border-radius: 50%; border: 4px solid #0ea5e9;" />
-  <h1>Rakibul Islam</h1>
   <p><strong>Frontend-first MERN Developer · Design Enthusiast · Performance Obsessed</strong></p>
   <p>📍 Chittagong, Bangladesh &nbsp;•&nbsp; ✉️ <a href="mailto:rakibulislam.eb@gmail.com">rakibulislam.eb@gmail.com</a></p>
   <p>
