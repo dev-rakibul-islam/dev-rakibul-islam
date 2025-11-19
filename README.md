@@ -92,21 +92,23 @@
 ## 📊 GitHub Pulse
 
 <div align="center">
-  <div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;">
-    <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(32, 45, 169, 0.45);border-radius:18px;background:rgba(15,23,42,0.65);backdrop-filter:blur(6px);">
+  <div style="max-width:1100px;padding:28px;border-radius:32px;background:linear-gradient(135deg, rgba(14,165,233,0.25), rgba(59,130,246,0.2), rgba(236,72,153,0.2));border:1px solid rgba(148,163,184,0.35);box-shadow:0 25px 60px rgba(15,23,42,0.45);">
+    <div style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;">
+      <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(56,189,248,0.45);border-radius:18px;background:rgba(2,6,23,0.75);backdrop-filter:blur(8px);">
       <p><b>Velocity Overview</b></p>
       <img src="https://github-readme-stats.vercel.app/api?username=dev-rakibul-islam&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=22c55e&text_color=e5e7eb&icon_color=22c55e" alt="GitHub Stats" />
       <p><sub>Tracking commits, PRs, private contributions.</sub></p>
-    </div>
-    <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(32, 45, 169, 0.45);border-radius:18px;background:rgba(15,23,42,0.65);backdrop-filter:blur(6px);">
+      </div>
+      <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(248,113,113,0.45);border-radius:18px;background:rgba(2,6,23,0.78);backdrop-filter:blur(8px);">
       <p><b>Consistency Streak</b></p>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rakibul-islam&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
       <p><sub>Daily pushes that keep the fire emoji glowing.</sub></p>
-    </div>
-    <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(32, 45, 169, 0.45);border-radius:18px;background:rgba(15,23,42,0.65);backdrop-filter:blur(6px);">
+      </div>
+      <div style="min-width:280px;max-width:360px;padding:18px;border:1px solid rgba(129,140,248,0.55);border-radius:18px;background:rgba(2,6,23,0.78);backdrop-filter:blur(8px);">
       <p><b>Stack Focus</b></p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rakibul-islam&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=e5e7eb" alt="Top Languages" />
       <p><sub>Where most experimentation and shipping happens.</sub></p>
+      </div>
     </div>
   </div>
 </div>
