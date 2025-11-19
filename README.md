@@ -145,7 +145,7 @@ npm run dev
 
 ---
 
-### 2. Aunkur CTG North — Scholarship Management Hub
+### 2. Aunkur CTG North — Scholarship Management Hub(Private Repo)
 
 **GitHub Description Helper:** `Aunkur CTG North · Multi-role NGO scholarship management with guardian dashboards & donor storytelling. Live: https://aunkurctgnorth.org · Stack: React · Tailwind · Node · Express · JWT · MongoDB`
 
@@ -169,7 +169,7 @@ Set `VITE_API_URL`, `MONGO_URI`, `JWT_SECRET`, and mail/SMS credentials as neede
 
 ---
 
-### 3. Roystyle — Motion-rich E-Commerce Drops
+### 3. Roystyle — Motion-rich E-Commerce Drops(Private Repo)
 
 **GitHub Description Helper:** `Roystyle · Boutique e-commerce experience with motion-first product drops & concierge outreach. Live: https://roystyle.com · Stack: React · Tailwind CSS · EmailJS · Vite`
 
@@ -193,7 +193,7 @@ Create an `.env` with `VITE_EMAILJS_SERVICE_ID`, `VITE_EMAILJS_TEMPLATE_ID`, `VI
 
 ---
 
-### 4. Plateia Airosa LDA — Multi-business Hub
+### 4. Plateia Airosa LDA — Multi-business Hub(Private Repo)
 
 **GitHub Description Helper:** `Plateia Airosa LDA · European multi-business HQ with service menus, booking capture, and editorial updates. Live: https://plateiaairosalda.com · Stack: React · Tailwind · Node · Express · MongoDB`
 
