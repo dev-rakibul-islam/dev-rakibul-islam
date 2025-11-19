@@ -14,6 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Design-driven+frontend+engineer;Shipping+pixel-perfect+MERN+apps;Always+learning+%2F%2F+building+%2F%2F+improving" alt="Hero typing animation" />
 </p>
 
+<p align="center">
+  Hi there! I’m Rakibul, a MERN-focused builder obsessed with seamless UX, lean APIs, and thoughtful motion. When I’m not shipping dashboards, I recharge by traveling, devouring books, and marathon-watching great stories—always ready to collaborate on the next standout product.
+</p>
+
 ---
 
 ## 🪟 Snapshot
