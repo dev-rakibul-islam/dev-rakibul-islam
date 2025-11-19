@@ -32,9 +32,10 @@
 
 ## 🧊 Currently Building
 
-- **Glassmorphism component kit** for React + Tailwind to speed up dashboard work.
-- **TeachLoop** (mini course marketplace) with secure payments & instructor consoles.
-- **Content automation scripts** to summarize GitHub issues and prep backlog tasks.
+- **Aunkur CTG North** — scholarship management hub for an NGO, complete with multi-role dashboards and donor transparency. _Stack:_ Tailwind · React · Node · Express · JWT · Framer Motion · MongoDB.
+- **Roystyle** — boutique e-commerce experience focused on motion-rich product drops and automated outreach via EmailJS. _Stack:_ React · Tailwind CSS · EmailJS. [Live](https://roystyle.com/)
+- **Plateia Airosa LDA** — multi-business site powering service catalogs, booking flows, and content updates for a European collective. _Stack:_ Tailwind · React · Node · Express · JWT · Framer Motion · MongoDB. [Live](https://plateiaairosalda.com/)
+- **AgroBridge** — community platform connecting farmers and agro-enthusiasts with listings, knowledge sharing, and secure messaging. _Stack:_ React (Vite) · Tailwind · Firebase Auth · Node · Express · REST API · ESLint. [Live](https://agrobridge-web.netlify.app)
 
 ---
 
@@ -79,11 +80,12 @@
 
 ## 📌 Featured Projects
 
-| Project              | What it is                                                     | Stack                                       | Links                                    |
-| -------------------- | -------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------- |
-| **LibraEase**        | Online book store with smart return reminders + Firebase auth  | React · Node · Express · MongoDB · Tailwind | _Repo link coming soon_                  |
-| **TeachLoop**        | Mini Udemy clone with cart, instructor dashboards, secure APIs | MERN · Stripe · JWT · Framer Motion         | _Repo link coming soon_                  |
-| **Aunkur CTG North** | Production NGO platform with CMS-like admin panel              | React · Tailwind · MongoDB · JWT            | [Live Site](https://aunkurctgnorth.org/) |
+| Project                | Highlights                                                                                                 | Stack                                                                        | Links                                           |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------- |
+| **Aunkur CTG North**   | Scholarship portal with guardian dashboards, application vetting, and storytelling blocks for donors.      | Tailwind · React · Node · Express · JWT · Framer Motion · MongoDB            | [Live Site](https://aunkurctgnorth.org/)        |
+| **Roystyle**           | Lightweight commerce experience for curated drops, integrated with EmailJS for concierge follow-up.        | React · Tailwind · EmailJS                                                   | [Live Site](https://roystyle.com/)              |
+| **Plateia Airosa LDA** | Multi-business HQ powering service menus, lead capture, and editorial updates for a Portuguese collective. | Tailwind · React · Node · Express · JWT · Framer Motion · MongoDB            | [Live Site](https://plateiaairosalda.com/)      |
+| **AgroBridge**         | Platform connecting farmers and agro-enthusiasts with listings, trades, and knowledge threads in one hub.  | React (Vite) · Tailwind · Firebase Auth · Node · Express · REST API · ESLint | [Live Site](https://agrobridge-web.netlify.app) |
 
 > Tip: pin these repos so they surface right below the README.
 
