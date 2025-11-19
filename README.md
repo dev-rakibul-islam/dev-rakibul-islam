@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Github Header.svg" alt="GitHub Header" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Rakibul Islam 👋</h1>
 
 <p align="center">
@@ -116,6 +120,7 @@ I’m **Rakibul Islam**, a **junior full‑stack web developer** who loves build
 
 <p align="center">
   <a href="mailto:rakibulislam.eb@gmail.com"><img src="https://img.shields.io/badge/Email-rakibulislam.eb%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+8801863972739"><img src="https://img.shields.io/badge/Phone-%2B880%2018639%2072739-22c55e?style=for-the-badge&logo=android&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rakibul-islam-6258541b4/"><img src="https://img.shields.io/badge/LinkedIn-Rakibul_Islam-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/dev_rakib_eb"><img src="https://img.shields.io/badge/X_(Twitter)-dev__rakib__eb-020617?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/dev.rakibulislam"><img src="https://img.shields.io/badge/Instagram-@dev.rakibulislam-e11d48?style=for-the-badge&logo=instagram&logoColor=white" /></a>
