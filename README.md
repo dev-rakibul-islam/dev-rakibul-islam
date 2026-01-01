@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Github Header.svg" alt="Rakibul Islam — Frontend-first MERN Developer" width="100%" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Rakibul%20Islam&fontSize=70&fontAlignY=35&desc=Frontend-First%20MERN%20Architect%20%7C%20Design%20%26%20Performance%20Obsessed&descSize=20&descAlignY=55&animation=twinkling" width="100%" alt="Hero banner" />
+
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
